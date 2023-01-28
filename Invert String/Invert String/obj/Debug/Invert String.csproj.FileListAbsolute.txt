@@ -1,0 +1,10 @@
+C:\Users\Mahan\source\repos\Invert String\Invert String\bin\Debug\Invert String.exe.config
+C:\Users\Mahan\source\repos\Invert String\Invert String\bin\Debug\Invert String.exe
+C:\Users\Mahan\source\repos\Invert String\Invert String\bin\Debug\Invert String.pdb
+C:\Users\Mahan\source\repos\Invert String\Invert String\obj\Debug\Invert String.csprojAssemblyReference.cache
+C:\Users\Mahan\source\repos\Invert String\Invert String\obj\Debug\Invert_String.Form1.resources
+C:\Users\Mahan\source\repos\Invert String\Invert String\obj\Debug\Invert_String.Properties.Resources.resources
+C:\Users\Mahan\source\repos\Invert String\Invert String\obj\Debug\Invert String.csproj.GenerateResource.cache
+C:\Users\Mahan\source\repos\Invert String\Invert String\obj\Debug\Invert String.csproj.CoreCompileInputs.cache
+C:\Users\Mahan\source\repos\Invert String\Invert String\obj\Debug\Invert String.exe
+C:\Users\Mahan\source\repos\Invert String\Invert String\obj\Debug\Invert String.pdb
